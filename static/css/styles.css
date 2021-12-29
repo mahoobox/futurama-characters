@@ -1,4 +1,10 @@
+body {
+  margin: 0;
+  background: #00a5be;
+  font-family: system-ui;
+  color: white;
+}
 table,
 td {
-  border: 1px solid black;
+  border: 1px solid #ffffff7a;
 }
